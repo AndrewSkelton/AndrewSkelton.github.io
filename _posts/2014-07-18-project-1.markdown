@@ -5,6 +5,7 @@ date: 2016-01-01
 img: Exome.png
 img_front: Exome_Window.png
 alt: alt-text
+imgur: http://imgur.com/a/orzAH
 project-date: January 2016
 client: Prof. Sophie Hambleton (Newcastle University/NHS)
 category: Computational Diagnostics
