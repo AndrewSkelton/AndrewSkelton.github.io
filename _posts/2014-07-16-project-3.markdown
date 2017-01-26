@@ -1,13 +1,17 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: Exome.png
-img_front: circus.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+date: 2017-01-01
+img: Pub.png
+img_front: Pub_Window.png
+alt: alt-text
+imgur:
+project-date: January 2017
+client: NA
+category: Publications
+title: Publications
+git_link: NA
+description: Chan, Chun Ming, Christopher D. MacDonald, Gary J. Litherland, David J. Wilkinson, Andrew Skelton, G. Nicholas Europe-Finner, and Andrew D. Rowan. 2016. “Cytokine-Induced MMP13 Expression in Human Chondrocytes Is Dependent on Activating Transcription Factor 3 (ATF3) Regulation.” The Journal of Biological Chemistry, December. doi:10.1074/jbc.M116.756601.  Meulenbelt, Ingrid M., Nidhi Bhutani, Wouter den Hollander, Steffen Gay, Udo Oppermann, Louise N. Reynard, Andrew J. Skelton, David A. Young, Frank Beier, and John Loughlin. 2016. “The First International Workshop on the Epigenetics of Osteoarthritis.” Connective Tissue Research, March, 1–12. doi:10.3109/03008207.2016.1168409.
+
 
 ---
