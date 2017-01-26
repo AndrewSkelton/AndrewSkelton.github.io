@@ -11,5 +11,5 @@ client: NA
 category: Publications
 title: Publications
 git_link: NA
-description: <ul class="list-inline item-details"><li><a href="http://stm.sciencemag.org/content/7/307/307ra154">Human IFNAR2 Deficiency: Lessons for Antiviral Immunity</a></li></ul>
+description: <ul class="list-inline item-details"><li><a href="http://stm.sciencemag.org/content/7/307/307ra154">Human IFNAR2 Deficiency Lessons for Antiviral Immunity</a></li></ul>
 ---
