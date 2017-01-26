@@ -11,6 +11,6 @@ client: NA
 category: Publications
 title: Publications
 git_link: NA
-description: <ul class="list-inline item-details"> <li><a href="http://www.jbc.org/content/early/2016/12/12/jbc.M116.756601">Cytokine-Induced MMP13 Expression in Human Chondrocytes is dependent on Activating Transcription Factor 3 (ATF3) regulation </a></li></ul>
+description: <ul class="list-inline item-details"> <li><a href="http://www.jbc.org/content/early/2016/12/12/jbc.M116.756601">Cytokine-Induced MMP13 Expression in Human Chondrocytes is dependent on Activating Transcription Factor 3 (ATF3) regulation </a></li><li><a href="http://www.tandfonline.com/doi/full/10.3109/03008207.2016.1168409">The first international workshop on the epigenetics of osteoarthritis</a></li></ul>
 
 ---
