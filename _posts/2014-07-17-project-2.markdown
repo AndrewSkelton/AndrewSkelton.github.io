@@ -2,8 +2,8 @@
 layout: default
 modal-id: 2
 date: 2017-01-01
-img: Language.png
-img_front: Language_Window.png
+img: Language_Window.png
+img_front: Language.png
 alt: alt-text
 imgur:
 project-date: January 2017
@@ -11,6 +11,6 @@ client:
 category: Programming Languages
 title: Programming Skills
 git_link:
-description: 
+description:
 
 ---
