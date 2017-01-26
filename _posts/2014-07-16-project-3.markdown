@@ -12,5 +12,4 @@ category: Publications
 title: Publications
 git_link: NA
 description: Blah Blah
-
 ---
