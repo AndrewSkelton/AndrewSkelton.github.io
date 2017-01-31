@@ -7,5 +7,4 @@ img_front: Tech_Window.png
 alt: alt-text
 title: Servers and OS
 description: I work day to day in a Linux environment, as such I'm familiar with Debian and RedHat flavours of Linux. I've been responsible for system administration of Ubuntu based servers, developing in a CentOS based compute cluster, and managing NAS storage arrays. I've also used AWS for projects in the past, which involved the automation of spinning up and stopping instances, along with general management of AWS instances.   
-win_footer: <a href="https://github.com/AndrewSkelton">Github Profile</a>
 ---
